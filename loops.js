@@ -4,7 +4,7 @@ var forLoop = function(array) {
       array.push("I am 1 strange loop.");
     }
     else {
-      array.push(`I m ${i} strange loops.`);
+      array.push(`I am ${i} strange loops.`);
     }
     // array.push(`I am ${i} strange loop${i === 0 ? '' : 's'}`);
   }
