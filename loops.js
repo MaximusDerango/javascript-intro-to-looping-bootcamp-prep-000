@@ -11,3 +11,9 @@ var whileLoop = function(n) {
   }
   return "done";
 };
+
+
+
+var doWhileLoop = function(array) {
+  
+}
