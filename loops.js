@@ -4,3 +4,9 @@ var forLoop = function(array) {
   }
   return array;
 };
+
+var whileLoop = function(n) {
+  while (n > 0) {
+    console.log(n--);
+  }
+};
